@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chinmayeenb25/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chinmayeenb25/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/chinmayeenb25/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinmayeenb25/DSA/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chinmayeenb25/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chinmayeenb25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
