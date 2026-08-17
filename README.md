@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chinmayeenb25/DSA/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinmayeenb25/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
