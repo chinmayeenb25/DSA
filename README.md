@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chinmayeenb25/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
