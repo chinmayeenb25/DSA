@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chinmayeenb25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/chinmayeenb25/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/chinmayeenb25/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/chinmayeenb25/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chinmayeenb25/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/chinmayeenb25/DSA/tree/master/2574-left-and-right-sum-differences) |
