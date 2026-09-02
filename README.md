@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chinmayeenb25/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/chinmayeenb25/DSA/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chinmayeenb25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinmayeenb25/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chinmayeenb25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
