@@ -4,7 +4,7 @@ class Solution {
         int [] arr=new int[n+1];
         for(int i=0;i<=n;i++){
             int num=i;
-             int digit_maker=0;
+             
              int count=0;
             while(num!=0){
                 int digit=(num&1);
