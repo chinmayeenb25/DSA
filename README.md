@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinmayeenb25/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayeenb25/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chinmayeenb25/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
@@ -154,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayeenb25/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chinmayeenb25/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
