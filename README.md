@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/chinmayeenb25/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chinmayeenb25/DSA/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chinmayeenb25/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinmayeenb25/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
