@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayeenb25/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chinmayeenb25/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chinmayeenb25/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chinmayeenb25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/chinmayeenb25/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chinmayeenb25/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chinmayeenb25/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinmayeenb25/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chinmayeenb25/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/chinmayeenb25/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chinmayeenb25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/chinmayeenb25/DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chinmayeenb25/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/chinmayeenb25/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayeenb25/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chinmayeenb25/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chinmayeenb25/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chinmayeenb25/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chinmayeenb25/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/chinmayeenb25/DSA/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/chinmayeenb25/DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/chinmayeenb25/DSA/tree/master/0476-number-complement) |
