@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chinmayeenb25/DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/chinmayeenb25/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chinmayeenb25/DSA/tree/master/0771-jewels-and-stones) |
+| [1678-goal-parser-interpretation](https://github.com/chinmayeenb25/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chinmayeenb25/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
