@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/chinmayeenb25/DSA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/chinmayeenb25/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/chinmayeenb25/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
 | ------- |
