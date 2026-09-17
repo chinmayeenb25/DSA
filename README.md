@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/chinmayeenb25/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chinmayeenb25/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/chinmayeenb25/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinmayeenb25/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chinmayeenb25/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chinmayeenb25/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/chinmayeenb25/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chinmayeenb25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinmayeenb25/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
