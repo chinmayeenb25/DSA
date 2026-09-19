@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/chinmayeenb25/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/chinmayeenb25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chinmayeenb25/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/chinmayeenb25/DSA/tree/master/2469-convert-the-temperature) |
 ## Matrix
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/chinmayeenb25/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chinmayeenb25/DSA/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/chinmayeenb25/DSA/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/chinmayeenb25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chinmayeenb25/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayeenb25/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chinmayeenb25/DSA/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/chinmayeenb25/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
