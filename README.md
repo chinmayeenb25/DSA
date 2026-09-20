@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/chinmayeenb25/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinmayeenb25/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/chinmayeenb25/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/chinmayeenb25/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/chinmayeenb25/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/chinmayeenb25/DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/chinmayeenb25/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/chinmayeenb25/DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
