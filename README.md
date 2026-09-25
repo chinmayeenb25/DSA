@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/chinmayeenb25/DSA/tree/master/1672-richest-customer-wealth) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/chinmayeenb25/DSA/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/chinmayeenb25/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/chinmayeenb25/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinmayeenb25/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/chinmayeenb25/DSA/tree/master/1920-build-array-from-permutation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinmayeenb25/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chinmayeenb25/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/chinmayeenb25/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/chinmayeenb25/DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/chinmayeenb25/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
 |  |
 | ------- |
