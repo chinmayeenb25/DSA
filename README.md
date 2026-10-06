@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chinmayeenb25/DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/chinmayeenb25/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chinmayeenb25/DSA/tree/master/0771-jewels-and-stones) |
+| [1556-thousand-separator](https://github.com/chinmayeenb25/DSA/tree/master/1556-thousand-separator) |
 | [1678-goal-parser-interpretation](https://github.com/chinmayeenb25/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/chinmayeenb25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chinmayeenb25/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
